@@ -3,5 +3,5 @@ package demo;
 public class demorepo {
 
 	
-	int age;
+	int age,B,C=5;
 }
