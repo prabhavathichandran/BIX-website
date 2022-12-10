@@ -10,6 +10,7 @@ public class demorepo {
 	String ename;
 	
 	float number;
+	double number1;
 	
 }
 
