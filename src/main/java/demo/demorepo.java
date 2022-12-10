@@ -9,6 +9,8 @@ public class demorepo {
 	
 	String ename;
 	
+	float number;
+	
 }
 
 
